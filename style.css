@@ -1,0 +1,22 @@
+.content{
+    position: relative;
+    padding-top: 50px;
+    width: 100%;
+    text-align: center;
+    font-family: Arial;
+  }
+  .content h1{
+    font-size: 40px;
+    padding: 40px;
+  }
+  .content i{
+    color: gray;
+  }
+  .content h2{
+    font-size: 30px;
+    margin: 20px;
+  }
+  .content p{
+    padding: 20px;
+    margin: 10px;
+  }
